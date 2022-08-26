@@ -1,0 +1,1 @@
+Ext.define('Youtube.model.', {})

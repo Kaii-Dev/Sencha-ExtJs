@@ -1,0 +1,9 @@
+Ext.define("Youtube.view.Viewport", {
+  extend: "Ext.container.Viewport",
+
+  id: "viewport",
+  items: [{
+   region: 'north',
+   html: '<h1>header</h1>'
+  }],
+});

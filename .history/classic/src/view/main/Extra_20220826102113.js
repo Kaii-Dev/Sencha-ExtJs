@@ -1,0 +1,7 @@
+Ext.define('Youtube.view.main.Extra', {
+   extend: 'Ext.container.Container',
+   xtype: 'Extra',
+   items: [{
+      title
+   }]
+})
